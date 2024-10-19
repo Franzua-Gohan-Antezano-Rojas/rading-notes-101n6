@@ -1,2 +1,8 @@
-# rading-notes-101n6
-Este es la rep que usare para el curso 101n6 de Enter Tech
+# reading-note-101n6
+
+## title2
+### title3
+#### title4
+##### title5
+###### title6
+- Hola me llamo Franzua
